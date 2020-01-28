@@ -10,7 +10,6 @@ Installation Steps to create first Angular Application
 > npm install @angular/cli -g
 > ng -v 
 
-
 4 Create Angular Project at specified directory
 > ng new applicationName
 
